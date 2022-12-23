@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in major computor
 
 ### LANGUAGE AND TOOLS
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,visualstudio,vscode)](https://skillicons.dev)
 
 ### STAT
 
