@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koonpoy&langs_count=8)](https://github.com/Koonpoy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koonpoy)](https://github.com/Koonpoy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Koonpoy&repo=github-readme-stats)](https://github.com/Koonpoy/github-readme-stats)
 
 <!---
 Koonpoy/Koonpoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
